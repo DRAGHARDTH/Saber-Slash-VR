@@ -1,0 +1,10 @@
+# ninja log v5
+17	796	7597745150438853	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d86732732d10aaf4
+0	800	7597745150479914	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a8a24e58e1d7b940
+20	814	7597745150627549	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e0318974e98c5127
+27	860	7597745151079428	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9c85a9dc6f9ca4bc
+13	875	7597745151242560	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4b4f92be37f6eb5d
+10	920	7597745151747264	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	784fa7e1df8a1873
+24	1009	7597745152559653	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8c039bcdb0bf6f05
+6	1104	7597745153526717	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2b2554c867d4416b
+1104	1191	7597745154480833	C:/Unity/Unity Projects/Saber Slash VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/502xr4o2/obj/arm64-v8a/libgame.so	8bdaf08f0b51cd7e
